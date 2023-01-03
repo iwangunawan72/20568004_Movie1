@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">20568004_Movie1</string>
+    <string name="textButton">RANDOM</string>
+    <string name="texthello1">Movie 1</string>
+    <string name="texthello2">Movie 2</string>
+    <string name="texthello3">Movie 3</string>
+</resources>
